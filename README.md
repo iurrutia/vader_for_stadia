@@ -36,7 +36,7 @@ Here are the wordclouds and most frequent words associated with positive and neg
 
 <img src="https://github.com/iurrutia/MiniMLProjects/blob/master/images/pos.png" width="400">
 
-Words that most frequestly appeared in positive titles included:
+Interesting words that most frequestly appeared in positive titles included:
 - controller
 - support
 - games
@@ -50,11 +50,13 @@ Words that most frequestly appeared in positive titles included:
 
 <img src="https://github.com/iurrutia/MiniMLProjects/blob/master/images/neg.png" width="400">
 
-Words that most frequestly appeared in negative titles included:
+Interesting words that most frequestly appeared in negative titles included:
 - lag
 - latency
 - founders
 - launch
+
+
 
 
 
