@@ -23,7 +23,7 @@ The notebook can be found here:
 
 # <a name="model">Model</a>
 
-I used VADER for reddit thread sentiment analysis. After substituting out game titles (e.g. "Doom", "Red Dead Redemption", "Gods & Monsters") for random character strings, Vader was able to assign a sentiment label to over half of the thread titles:
+I used VADER for reddit thread sentiment analysis. After substituting out game titles (e.g. "Doom", "Red Dead Redemption", "Gods & Monsters") for random character strings, Vader was able to assign a sentiment label to roughly half of the thread titles:
 
 
 <img src="https://github.com/iurrutia/MiniMLProjects/blob/master/images/classfreq.png" width="400">
